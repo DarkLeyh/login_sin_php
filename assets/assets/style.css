@@ -1,0 +1,302 @@
+@media screen and (min-device-width: 1024px) {
+    * {
+        padding: 0;
+        margin: 0;
+    }
+
+    body {
+        background-color: #c0c0c0;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    #header {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-align: center;
+        background: #fff;
+        border: 1px black solid;
+        margin: 0px 450px 0px 450px;
+    }
+
+    #form {
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-align: center;
+        background: #fff;
+        border: 1px black solid;
+        margin: 0px 450px 0px 450px;
+        border-radius: 15px 10px 25px 5px;
+    }
+
+    input[type=email], input[type=password], input[type=text] {
+        padding: 15px;
+        border-radius: 15px 0px 15px 0px;
+        border: 1px black solid;
+    }
+
+    input[type=submit]{
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: black;
+        background-color: white;
+        border: 1px black solid;
+        border-radius: 15px 0px 15px 0px;
+    }
+
+    footer {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-align: center;
+        background: #fff;
+        border: 1px black solid;
+        margin: 0px 450px 0px 450px;
+    }
+
+    .reloj {
+        border: 1px black solid;
+        text-align: right;
+        margin: 0px 50px 0px 1150px;
+        background: #191919;
+        color: white;
+    }
+
+    .contenRel {
+        padding: 30px 25px 10px 50px;
+    }
+}
+
+@media screen and (min-width: 636px) and (max-width: 1023px) {
+    * {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    body {
+        background-color: #c0c0c0;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    #header {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-align: center;
+        background: #fff;
+        border: 1px black solid;
+        margin: 0px 250px 0px 250px;
+    }
+
+    #form {
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-align: center;
+        background: #fff;
+        border: 1px black solid;
+        margin: 0px 250px 0px 250px;
+        border-radius: 15px 10px 25px 5px;
+    }
+
+    input[type=email], input[type=password], input[type=text] {
+        padding: 15px;
+        border-radius: 15px 0px 15px 0px;
+        border: 1px black solid;
+        width: 100px;
+    }
+
+    input[type=submit]{
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: black;
+        background-color: white;
+        border-radius: 15px 0px 15px 0px;
+    }
+
+    input[type=submit]{
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: black;
+        background-color: white;
+        border: 1px black solid;
+        border-radius: 15px 0px 15px 0px;
+    }
+
+    footer {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-align: center;
+        background: #fff;
+        border: 1px black solid;
+        margin: 0px 250px 0px 250px;
+    }
+
+    .reloj {
+        border: 1px black solid;
+        text-align: right;
+        margin: 0px 50px 0px 550px;
+        background: #191919;
+        color: white;
+    }
+
+    .contenRel {
+        padding: 30px 25px 0px 50px;
+    }
+}
+
+
+@media screen and (min-width: 398px) and (max-width: 635px) {
+    * {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    body {
+        background-color: #c0c0c0;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    #header {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        background: #fff;
+        border: 1px black solid;
+        margin: 0px 100px 0px 100px;
+    }
+
+    #form {
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-align: center;
+        background: #fff;
+        border: 1px black solid;
+        margin: 0px 100px 0px 100px;
+        border-radius: 15px 10px 25px 5px;
+    }
+
+    input[type=email], input[type=password], input[type=text] {
+        padding: 15px;
+        border-radius: 15px 0px 15px 0px;
+        border: 1px black solid;
+        width: 50px;
+    }
+
+    input[type=submit]{
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: black;
+        background-color: white;
+        border-radius: 15px 0px 15px 0px;
+    }
+
+    input[type=submit]{
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: black;
+        background-color: white;
+        border: 1px black solid;
+        border-radius: 15px 0px 15px 0px;
+    }
+
+    footer {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-align: center;
+        background: #fff;
+        border: 1px black solid;
+        margin: 0px 100px 0px 100px;
+    }
+
+    .reloj {
+        border: 1px black solid;
+        text-align: right;
+        margin: 0px 0px 0px 300px;
+        background: #191919;
+        color: white;
+    }
+
+    .contenRel {
+        padding: 30px 30px 30px 50px;
+    }
+}
+
+@media screen and (max-width: 397px) {
+    * {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    body {
+        background-color: #c0c0c0;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    #header {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        background: #fff;
+        border: 1px black solid;
+        margin: 0px 50px 0px 50px;
+    }
+
+    #form {
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-align: center;
+        background: #fff;
+        border: 1px black solid;
+        margin: 0px 50px 0px 50px;
+        border-radius: 15px 10px 25px 5px;
+    }
+
+    input[type=email], input[type=password], input[type=text] {
+        padding: 15px;
+        border-radius: 15px 0px 15px 0px;
+        border: 1px black solid;
+        width: 50px;
+    }
+
+    input[type=submit]{
+        padding: 10px 20px 10px 20px;
+        padding-right: 40px;
+        color: black;
+        background-color: white;
+        border-radius: 15px 0px 15px 0px;
+        border: 1px black solid;
+        width: 50px;
+    }
+
+    footer {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-align: center;
+        background: #fff;
+        border: 1px black solid;
+        margin: 0px 50px 0px 50px;
+    }
+
+    .reloj {
+        border: 1px black solid;
+        text-align: right;
+        margin: 0px 0px 0px 100px;
+        background: #191919;
+        color: white;
+    }
+
+    .contenRel {
+        padding: 30px 30px 30px 50px;
+    }
+}
